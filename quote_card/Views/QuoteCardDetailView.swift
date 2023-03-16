@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct QuoteCardDetailView: View {
-    
+    //adding some comment to see the 
     var quote: Quote
     
     var body: some View {
